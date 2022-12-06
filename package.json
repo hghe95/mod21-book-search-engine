@@ -1,7 +1,6 @@
 {
   "name": "googlebooks-app",
   "version": "1.0.0",
-  "description": "",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
@@ -14,5 +13,14 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hghe95/mod21-book-search-engine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hghe95/mod21-book-search-engine/issues"
+  },
+  "homepage": "https://github.com/hghe95/mod21-book-search-engine",
+  "description": ""
 }
